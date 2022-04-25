@@ -1,6 +1,5 @@
-# untitled
-
-A new Flutter project.
+# Fruit Store App
+This app show list of Fruit with with a detail Screen
 
 ## Getting Started
 
